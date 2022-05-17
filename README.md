@@ -1,2 +1,2 @@
 # hw5
-[Предыдущая домашка](alexandra77718.github.io/hw4.2/)
+[ссылка на предыдущую домашку](https://alexandra77718.github.io/hw4.2/)
