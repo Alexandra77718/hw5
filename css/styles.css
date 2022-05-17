@@ -1,0 +1,51 @@
+* {
+margin: 0;
+box-sizing: border-box;
+}
+    
+header {
+    width: 90%;
+    height: 150px;
+    background: linear-gradient(90deg, rgba(249, 164, 104, 0.7) 35%, rgba(242, 243, 154, 0.7) 68%);
+    font-family: 'Alegreya Sans SC', sans-serif;
+    text-align: center;
+    font-size: 60px;
+    margin: 0 auto 0;
+}
+
+section.form {
+    margin: 0 auto 0;
+    width: 400px;
+    height: 430px;
+    background-color: rgba(248, 255, 155, 0.597);
+    padding-left: 15px;
+}
+main label{
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 36px;
+}
+
+input {
+    width: 150px;
+    height: 35px;
+    background-color: rgba(249, 204, 145, 0.627);
+    border-radius: 14px;
+    box-shadow: 1em rgb(104, 103, 102);
+}
+
+input:hover {
+    width: 153px;
+    height: 37px;
+    background-color: rgb(249, 204, 145);
+}
+
+section.list {
+    display: flex;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 40px;
+    width: 500px;
+    height: 470px;
+    border: solid black 1px;
+    background-color: antiquewhite;
+    
+}
